@@ -1,0 +1,25 @@
+{
+  "News": [
+    {
+      "id": "1e8af8dc-8ce0-431b-b530-aacdcc53568f",
+      "title": "Health Ministry issues advisory amidst rising numbers of 'black fungus' infections - YourStory",
+      "Poster": "https://images.yourstory.com/cs/5/f5a7f3304b1211e9b6645b8ae897d03e/blackfungus-1620740761817.jpeg",
+      "author": "Team SS",
+      "description": "We answer some key questions around symptoms, how a diagnosis is done, and treatment for the infection that is appearing in some people who have recovered from COVID-19"
+    },
+    {
+      "id": "ecc6d1b3-3fd6-437a-8cfc-1251f2072b48",
+      "title": "Leading nutritionist shares a tea recipe to reduce excess mucous - Times of India",
+      "Poster": "https://static.toiimg.com/photo/82550252.cms",
+      "author": null,
+      "description": "Practising some breathing exercises and sipping expert recommended herbal concoctions are the two most effective ways to keep your lungs healthy and cut down the risk of infection."
+    },
+    {
+      "id": "d1b8e009-8872-48b9-8209-1dd5ed0bccdf",
+      "title": "Explosives case: Mumbai cop Sachin Waze dismissed from service - Times of India",
+      "Poster": "https://static.toiimg.com/thumb/msid-82550002,width-1070,height-580,imgsize-109230,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "author": "TIMESOFINDIA.COM",
+      "description": "Suspended assistant police inspector (API) Sachin Waze was on Tuesday dismissed from police service, an official said."
+    }
+  ]
+}
